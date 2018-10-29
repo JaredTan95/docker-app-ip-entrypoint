@@ -1,0 +1,1 @@
+echo $DCE_ADVERTISE_IP
